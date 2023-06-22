@@ -6,5 +6,6 @@ Technologies used:
  * Expo
  * NativeBase
  * React navigation
+ * Biometric auth
  * React native mmkv
  * and much more
